@@ -56,6 +56,8 @@ Entorno de práctica dedicado a la validación de integraciones de pasarelas de 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ivarayala&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivarayala&layout=compact&theme=rose_pine&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 ## 📫 Contacto
 
